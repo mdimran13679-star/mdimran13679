@@ -20,7 +20,7 @@
 ---
 
 ### 📈 GitHub Stats
-![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical)
+mdimran13679-star
 
 ---
 
