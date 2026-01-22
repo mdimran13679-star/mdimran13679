@@ -1,33 +1,30 @@
 # Hi there, I'm IMRAN KHAN MD 👋
-### Senior Software Quality Engineer | Test Automation Specialist (SDET)
+### Senior Software Quality Engineer | SDET | Automation Specialist
 
-- [cite_start]🚀 **Experience:** 3+ years of expertise in Manual & Automation Testing[cite: 12].
-- [cite_start]🛠️ **Core Focus:** Building scalable automation frameworks using **Playwright, Cypress, and Selenium**[cite: 15, 126].
-- [cite_start]📱 **Domain Expertise:** Specialized in Web, iOS, and Android application testing[cite: 32].
-- [cite_start]📫 Reach me at: **mdimran13679@gmail.com** [cite: 3]
+- [cite_start]🚀 **Exp:** 3+ years in Software Testing (Manual & Automation) [cite: 12]
+- [cite_start]🛠️ **Expertise:** Playwright, Cypress, Selenium, & Java [cite: 137, 138]
+- [cite_start]📱 **Platforms:** Web, iOS, and Android 
+- [cite_start]📫 Reach me: **mdimran13679@gmail.com** [cite: 3]
 
 ---
 
 ### 🛠️ Technical Proficiency
-[cite_start]**Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) [cite: 138]
+[cite_start]**Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) [cite: 138]
 
-**Automation & Tools:**
-[cite_start]![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=Cypress&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white) [cite: 137, 141]
+**Testing Tools:**
+[cite_start]![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=Playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=Cypress&logoColor=white) [cite: 137]
 
-[cite_start]**Testing Frameworks:** - Cucumber BDD, TestNG, JUnit, and Data-Driven Frameworks[cite: 139].
-- [cite_start]Expert in **Page Object Model (POM)** design patterns[cite: 140].
+**DevOps & Tools:**
+[cite_start]![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white) [cite: 141, 142, 143, 144]
 
 ---
 
 ### 📈 GitHub Stats
-mdimran13679-star
+![Imran's Stats](https://github-readme-stats.vercel.app/api?username=mdimran13679-star&show_icons=true&theme=radical)
 
 ---
 
 ### 📁 Featured Automation Projects
-- [cite_start]**Omnichannel Platform Automation:** End-to-end testing for Cloud CX platforms using Playwright and TypeScript[cite: 41, 48].
-- [cite_start]**Healthcare Data Systems:** Robust regression and smoke testing for clinical trial operations[cite: 88, 104].
-- [cite_start]**API Testing Suite:** Automated backend validation using Rest Assured and Postman[cite: 145].
-
----
-[cite_start]*“Ensuring high product quality through structured test planning, execution, and defect tracking.”* [cite: 122]
+- [cite_start]**Playwright-TypeScript Framework:** End-to-end automation suite for cloud CX platforms using POM[cite: 48, 58].
+- [cite_start]**Selenium-Java BDD Suite:** Robust regression testing using Cucumber BDD and TestNG[cite: 5, 117].
+- [cite_start]**API Automation:** Backend validation using Rest Assured and Postman[cite: 23, 145].
